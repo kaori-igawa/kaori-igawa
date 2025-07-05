@@ -4,13 +4,13 @@ I am a web front-end engineer in Japan.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaori-igawa&theme=panda)
 
-<p align="left"> 
+<p align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaori-igawa&theme=panda&show_icons=true&count_private=true" />
 </a>
 </p>
 
-<p align="right"> 
+<p align="center"> 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaori-igawa&layout=compact&theme=panda&count_private=true&langs_count=8" />
 </a>
