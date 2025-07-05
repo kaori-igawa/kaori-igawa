@@ -2,15 +2,13 @@
 My name is Kaori Igawa.   
 I am a web front-end engineer in Japan.  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaori-igawa&theme=panda)  
+<p>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaori-igawa&theme=panda" />
+</p>
 
-<p align="left">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=kaori-igawa&theme=panda&show_icons=true&count_private=true" />
-  </a>
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaori-igawa&layout=compact&theme=panda&count_private=true&langs_count=8" />
-  </a>
+<p>
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=kaori-igawa&theme=panda&show_icons=true&count_private=true" />
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaori-igawa&layout=compact&theme=panda&count_private=true&langs_count=8" />
 </p>
 
 
