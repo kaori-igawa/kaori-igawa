@@ -8,6 +8,9 @@ I am a web front-end engineer in Japan.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kaori-igawa&theme=panda&show_icons=true&count_private=true" />
 </a>
+</p>
+
+<p align="right"> 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaori-igawa&layout=compact&theme=panda&count_private=true&langs_count=8" />
 </a>
